@@ -1,0 +1,11 @@
+D:\Users\Anh Van\source\repos\AdminApp1\CilientApp1\bin\Debug\CilientApp1.exe.config
+D:\Users\Anh Van\source\repos\AdminApp1\CilientApp1\bin\Debug\CilientApp1.exe
+D:\Users\Anh Van\source\repos\AdminApp1\CilientApp1\bin\Debug\CilientApp1.pdb
+D:\Users\Anh Van\source\repos\AdminApp1\CilientApp1\obj\Debug\CilientApp1.csprojAssemblyReference.cache
+D:\Users\Anh Van\source\repos\AdminApp1\CilientApp1\obj\Debug\CilientApp1.Form1.resources
+D:\Users\Anh Van\source\repos\AdminApp1\CilientApp1\obj\Debug\CilientApp1.LoginForm.resources
+D:\Users\Anh Van\source\repos\AdminApp1\CilientApp1\obj\Debug\CilientApp1.Properties.Resources.resources
+D:\Users\Anh Van\source\repos\AdminApp1\CilientApp1\obj\Debug\CilientApp1.csproj.GenerateResource.cache
+D:\Users\Anh Van\source\repos\AdminApp1\CilientApp1\obj\Debug\CilientApp1.csproj.CoreCompileInputs.cache
+D:\Users\Anh Van\source\repos\AdminApp1\CilientApp1\obj\Debug\CilientApp1.exe
+D:\Users\Anh Van\source\repos\AdminApp1\CilientApp1\obj\Debug\CilientApp1.pdb
